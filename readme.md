@@ -1,2 +1,1 @@
-github.com/lewagon
-ex: ruby-workshop.lewagon.com
+ruby-workshop.lewagon.com
